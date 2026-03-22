@@ -97,5 +97,5 @@ That's both a definition of cohesion and a strategy for reducing coupling.
 
 ## Further reading
 
-- [Structured Design — Yourdon & Constantine (1979)](https://en.wikipedia.org/wiki/Structured_Design) — where the coupling taxonomy originally came from
+- [Coupling and Cohesion — GeeksforGeeks](https://www.geeksforgeeks.org/software-engineering-coupling-and-cohesion/) — covers the full coupling and cohesion taxonomy, including the types introduced by Yourdon & Constantine
 - [Clean Architecture — Robert C. Martin](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) — applies these ideas at the architectural level

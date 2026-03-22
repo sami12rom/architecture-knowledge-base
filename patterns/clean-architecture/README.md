@@ -212,6 +212,6 @@ Notice the business rule (`Cannot confirm an order that isn't pending`) lives on
 
 ## Further reading
 
-- [Clean Architecture — Robert C. Martin (2017)](https://www.goodreads.com/book/show/18043011-clean-architecture) — the book; worth reading in full, chapters 22–34 are the most directly applicable
+- [Clean Architecture — Robert C. Martin (2017)](https://www.informit.com/store/clean-architecture-a-craftsmans-guide-to-software-structure-9780134494166) — the book; worth reading in full, chapters 22–34 are the most directly applicable
 - [The Clean Architecture blog post (2012)](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) — the original article that introduced the model, shorter than the book
 - [Explicit Architecture — Herbert Graça](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/) — how Clean Architecture, Hexagonal, Onion, and DDD fit together
