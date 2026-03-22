@@ -21,6 +21,8 @@ A reference for software architecture patterns, trade-offs, and decisions. Writt
 | Pattern | Summary | Tags |
 |---|---|---|
 | [Hexagonal Architecture](patterns/hexagonal-architecture/README.md) | Keep business logic away from infrastructure using ports and adapters | `backend` `layered` `testability` |
+| [CSR — Clean Slice Redux](patterns/csr/README.md) | Organise code by business feature, not technical role | `backend` `frontend` `feature-sliced` `modularity` |
+| [Clean Architecture](patterns/clean-architecture/README.md) | Concentric rings where dependencies only point inward — business rules at the centre, infrastructure at the edge | `backend` `layered` `testability` `domain` |
 
 ---
 
@@ -29,6 +31,7 @@ A reference for software architecture patterns, trade-offs, and decisions. Writt
 | Comparison | Summary |
 |---|---|
 | [CSR vs Hexagonal Architecture](comparisons/csr-vs-hexagonal.md) | Organising by feature slice vs organising by layer — when each makes sense |
+| [Clean Architecture vs Hexagonal](comparisons/clean-architecture-vs-hexagonal.md) | Same core idea, different levels of prescription inside the boundary |
 
 ---
 
